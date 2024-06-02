@@ -1,5 +1,9 @@
-# responsive-login-and-registration-form-jeandoe
+### responsive login and registration form jeandoe @mrvin100
 How to create responsive login and registration #jeandoe
+
+this is a presentation video about how to make a responsive Website With Login And Register | HTML CSS & JavaScript only.
+source code it's available for every one who want to use it by adding on their one website or to build another design of it !
+and don't forget to shared it to help your friend !
 
 #---------------------------- jeandoe -----------------------------#
 
